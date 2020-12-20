@@ -7,4 +7,4 @@
 - **Blue** for opening stock price more than closing price for that day
 
 ### CSV file of dates
-![none](http://url/to/img.png)
+![none](https://github.com/truthfool/stockmarket_analysis_graph/blob/master/sample/Screenshot%20(61).png)
