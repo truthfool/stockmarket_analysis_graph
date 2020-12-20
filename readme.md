@@ -5,3 +5,6 @@
 
 - **Red** for opening stock price less than closing price for that day
 - **Blue** for opening stock price more than closing price for that day
+
+### CSV file of dates
+![none](http://url/to/img.png)
